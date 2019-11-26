@@ -1,0 +1,11 @@
+@import 'vars.css';
+@import "basic.css";
+@import "animations.css";
+@import "fonts.css";
+@import "header.css";
+@import "hero.css";
+@import "video.css";
+@import "project.css";
+@import "skills.css";
+@import "gallery.css";
+@import "contact.css";
