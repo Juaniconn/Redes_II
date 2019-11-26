@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Redes_II/static/css/main.b100e6da.chunk.css",
+    "main.css": "/Redes_II/static/css/main.d1409b48.chunk.css",
     "main.js": "/Redes_II/static/js/main.f123b4b5.chunk.js",
     "main.js.map": "/Redes_II/static/js/main.f123b4b5.chunk.js.map",
     "runtime-main.js": "/Redes_II/static/js/runtime-main.46258759.js",
@@ -8,15 +8,15 @@
     "static/js/2.e334e44b.chunk.js": "/Redes_II/static/js/2.e334e44b.chunk.js",
     "static/js/2.e334e44b.chunk.js.map": "/Redes_II/static/js/2.e334e44b.chunk.js.map",
     "index.html": "/Redes_II/index.html",
-    "precache-manifest.23effe8512a8eecb97848fe6829373a0.js": "/Redes_II/precache-manifest.23effe8512a8eecb97848fe6829373a0.js",
+    "precache-manifest.1508ba7f60c9f67a1d293db5850ef13b.js": "/Redes_II/precache-manifest.1508ba7f60c9f67a1d293db5850ef13b.js",
     "service-worker.js": "/Redes_II/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/Redes_II/static/css/main.b100e6da.chunk.css.map",
+    "static/css/main.d1409b48.chunk.css.map": "/Redes_II/static/css/main.d1409b48.chunk.css.map",
     "static/media/logo.svg": "/Redes_II/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.46258759.js",
     "static/js/2.e334e44b.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
+    "static/css/main.d1409b48.chunk.css",
     "static/js/main.f123b4b5.chunk.js"
   ]
 }
