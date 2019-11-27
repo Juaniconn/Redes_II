@@ -1,29 +1,24 @@
 {
   "files": {
-    "main.css": "/Redes_II/static/css/main.5472a988.chunk.css",
-    "main.js": "/Redes_II/static/js/main.1ac48075.chunk.js",
-    "main.js.map": "/Redes_II/static/js/main.1ac48075.chunk.js.map",
+    "main.css": "/Redes_II/static/css/main.b9dcdaae.chunk.css",
+    "main.js": "/Redes_II/static/js/main.5514c549.chunk.js",
+    "main.js.map": "/Redes_II/static/js/main.5514c549.chunk.js.map",
     "runtime-main.js": "/Redes_II/static/js/runtime-main.46258759.js",
     "runtime-main.js.map": "/Redes_II/static/js/runtime-main.46258759.js.map",
-    "static/js/2.da67a71a.chunk.js": "/Redes_II/static/js/2.da67a71a.chunk.js",
-    "static/js/2.da67a71a.chunk.js.map": "/Redes_II/static/js/2.da67a71a.chunk.js.map",
+    "static/js/2.9a0b65b8.chunk.js": "/Redes_II/static/js/2.9a0b65b8.chunk.js",
+    "static/js/2.9a0b65b8.chunk.js.map": "/Redes_II/static/js/2.9a0b65b8.chunk.js.map",
     "index.html": "/Redes_II/index.html",
-    "precache-manifest.e80406b14552e592f13f1f9eda095fe3.js": "/Redes_II/precache-manifest.e80406b14552e592f13f1f9eda095fe3.js",
+    "precache-manifest.26b0d6a61e986cb2c7a28d5b7360c5dd.js": "/Redes_II/precache-manifest.26b0d6a61e986cb2c7a28d5b7360c5dd.js",
     "service-worker.js": "/Redes_II/service-worker.js",
-    "static/css/main.5472a988.chunk.css.map": "/Redes_II/static/css/main.5472a988.chunk.css.map",
+    "static/css/main.b9dcdaae.chunk.css.map": "/Redes_II/static/css/main.b9dcdaae.chunk.css.map",
     "static/media/App.css": "/Redes_II/static/media/icomoon.d453fa1b.ttf",
     "static/media/cover.png": "/Redes_II/static/media/cover.44db901a.png",
-    "static/media/gallery1.jpg": "/Redes_II/static/media/gallery1.7f8cc4d3.jpg",
-    "static/media/gallery2.jpg": "/Redes_II/static/media/gallery2.f369a777.jpg",
-    "static/media/gallery3.jpg": "/Redes_II/static/media/gallery3.0e9791ba.jpg",
-    "static/media/gallery4.jpg": "/Redes_II/static/media/gallery4.fc9d6614.jpg",
-    "static/media/gallery5.jpg": "/Redes_II/static/media/gallery5.adae526b.jpg",
     "static/media/hero.png": "/Redes_II/static/media/hero.d20d6984.png"
   },
   "entrypoints": [
     "static/js/runtime-main.46258759.js",
-    "static/js/2.da67a71a.chunk.js",
-    "static/css/main.5472a988.chunk.css",
-    "static/js/main.1ac48075.chunk.js"
+    "static/js/2.9a0b65b8.chunk.js",
+    "static/css/main.b9dcdaae.chunk.css",
+    "static/js/main.5514c549.chunk.js"
   ]
 }

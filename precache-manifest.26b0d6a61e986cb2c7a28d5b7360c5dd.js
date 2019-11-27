@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb76c6e45e1e64e324aee2d4edf1922b",
+    "revision": "99b418034c57778fe56ba4603962ccd7",
     "url": "/Redes_II/index.html"
   },
   {
-    "revision": "fb1382d7a0936f233556",
-    "url": "/Redes_II/static/css/main.5472a988.chunk.css"
+    "revision": "b999aad6b084326a00cb",
+    "url": "/Redes_II/static/css/main.b9dcdaae.chunk.css"
   },
   {
-    "revision": "4d37765bf0663940ba5f",
-    "url": "/Redes_II/static/js/2.da67a71a.chunk.js"
+    "revision": "41efb15bd0297561ade6",
+    "url": "/Redes_II/static/js/2.9a0b65b8.chunk.js"
   },
   {
-    "revision": "fb1382d7a0936f233556",
-    "url": "/Redes_II/static/js/main.1ac48075.chunk.js"
+    "revision": "b999aad6b084326a00cb",
+    "url": "/Redes_II/static/js/main.5514c549.chunk.js"
   },
   {
     "revision": "0dc48ccc5b55769db540",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "959f2befdf31815e0bb1fd954416d6cd",
     "url": "/Redes_II/static/media/bg-hero2.959f2bef.jpg"
+  },
+  {
+    "revision": "198c301eeefee40605b1477371af9a42",
+    "url": "/Redes_II/static/media/bg-menu.198c301e.jpg"
   },
   {
     "revision": "44db901a9bbf6e0109e2d2d81b792e66",
