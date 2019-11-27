@@ -27,3 +27,14 @@ html{
     padding: 0;
     margin: 0;
   }
+
+  .container{
+    padding: 0 10rem;
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+    flex-direction: inherit;
+    flex-shrink: inherit;
+    width: 100%;
+    height: 100%;
+  }

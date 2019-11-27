@@ -1,1 +1,111 @@
 /* Contact */
+
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    background-color: var(--color_brand2);
+
+    padding: 25rem 0 10rem;
+    position: relative;
+
+    & img{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        z-index: 1;
+    }
+
+    & .contact_item_aboutus{
+        width: 30%;
+        z-index: 2;
+
+        & h2{
+            font-size: 2.4rem;
+            color: var(--color_white);
+            margin-bottom: 1rem     ;
+        }
+
+        & p{
+            font-size: 1.8rem;
+            color: var(--color_white);
+        }
+    }
+
+    & .contact_item_navigation{
+        z-index: 2;
+        & h2{
+            font-size: 2.4rem;
+            color: var(--color_white);
+            margin-bottom: 1rem;
+        }
+
+        & ul{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            & li{
+                & a{
+                    text-align: center;
+                    text-decoration: none;
+                    color: white;
+                    font-size: 1.8rem;
+                    transition: 450ms all;
+                }
+
+                & a:hover{
+                    color: var(--color_brand1);
+                }
+            }
+        }
+    }
+
+    & .contact_item_followus{
+        z-index: 2;
+        display: block;
+        
+        & h2{
+            font-size: 2.4rem;
+            color: var(--color_white);
+            margin-bottom: 1rem;
+        }
+
+        & .social_links{
+            display: flex;
+            justify-content: space-evenly;
+            & a{
+                text-decoration: none;
+                & i{
+                    font-size: 2rem;
+                    color: white;
+                    transition: 450ms all;
+                }
+
+                & i:hover{
+                    color: var(--color_brand1);
+                }
+            }
+        }
+    }
+}
+
+.footer{
+    background-color: var(--color_brand2);
+    display: flex;
+    justify-content: center;
+
+    padding: 0 0 10rem;
+
+    & p{
+        font-size: 1.8rem;
+        color: var(--color_white);
+        & a{
+            color: var(--color_brand1);
+            font-size: 1.8rem;
+            text-decoration: none;
+        }
+    }
+}

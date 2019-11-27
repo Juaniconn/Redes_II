@@ -1,27 +1,49 @@
 /* Header */
 .header{
     display: flex;
+    width: 100%;
+    position: fixed;
     justify-content: space-between;
     align-items: center;
+    background-color: rgba(0,0,0,0.7);
+    z-index: 9999;
+    & h1{
+        margin: .5rem 0;
+        color: var(--color_white);
+        font-size: 3.2rem;
+    }
 }
 
 .nav{
-
     & ul{
 
         display: flex;
         justify-content: space-between;
         
         & li:not(:last-child){
-            margin-right: 1rem;
-            & a{
-                text-decoration: none;
-            }
+            margin-right: 2rem;
         }
-
+        
         & li{
             & a{
                 color: var(--color_white);
+                text-decoration: none;
+                font-size: 1.6rem;
+                position: relative;
+            }
+
+            & a::before{
+                transition: 450ms all;
+                position: absolute;
+                content: "";
+                bottom: 0;
+                left: 0;
+                right: 0;
+                height: .2rem;
+            }
+
+            & a:hover::before{
+                box-shadow: inset 3.7rem 0 0 #FFF;
             }
         }
     }
